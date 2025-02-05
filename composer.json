@@ -1,0 +1,20 @@
+{
+    "name": "liza/fyp2",
+    "description": "final year project e-farm",
+    "type": "project",
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Liza\\Fyp2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elizabeth",
+            "email": "ayingaelizabeth@gmail.com"
+        }
+    ]
+}
